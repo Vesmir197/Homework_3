@@ -1,0 +1,50 @@
+ body{
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+ }
+
+h1.main-headline {
+font-size: 32px;
+font-weight: 500;
+font-family: sans-serif;
+margin-left: auto;
+}
+span {
+    font-family: sans-serif;
+    color: gray;
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+}
+ img {
+    width: 100vw;
+ }
+ 
+    
+h3 {
+    font-family: sans-serif;
+    font-weight: 500;
+}
+p{
+    margin-top: 0.5;
+    margin-bottom: 1 em;
+}
+hr {
+    color: gray;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a .style{
+    text-decoration: underline;
+    color: green;
+}
+
