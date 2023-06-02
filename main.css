@@ -1,4 +1,4 @@
- body {
+ body{
     
     padding-left: 10px;
     padding-right: 10px;
@@ -6,14 +6,14 @@
     padding-bottom: 10px;
     font-family: sans-serif;
  }
- h1 {
+ h1{
     font-weight: 500;
     }
 span {
     color: gray;
 }
 
-a {
+a{
     text-decoration: none;
     color: gray;
 }
@@ -33,7 +33,9 @@ ul {
     list-style: "–";
 }
 
-a .style{
+#hypertext {
+    color: green;
+    text-decoration: underline;
     text-decoration-color: green;
 }
 
